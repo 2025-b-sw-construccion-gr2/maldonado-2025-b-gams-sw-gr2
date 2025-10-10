@@ -1,0 +1,6 @@
+[submodule "Calculadora/gams_suma"]
+	path = Calculadora/gams_suma
+	url = https://github.com/2025-b-sw-construccion-gr2/gams_suma.git
+[submodule "Calculadora/gams_resta"]
+	path = Calculadora/gams_resta
+	url = https://github.com/2025-b-sw-construccion-gr2/gams_resta.git
