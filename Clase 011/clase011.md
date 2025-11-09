@@ -1,6 +1,6 @@
 # Análisis Legal: Ingeniería Inversa en Microsoft Office y Spotify
 
-## Integrantes: Daniel Moncayo, Jhair Zambrano, Gabriel Maldonado
+##  Gabriel Maldonado
 ## 🎯 Objetivo del Taller
 Analizar dos aplicaciones comerciales populares desde el punto de vista legal, identificando si sus licencias permiten o restringen la ingeniería inversa, y reflexionando sobre las implicaciones éticas y legales de dichas restricciones.
 
